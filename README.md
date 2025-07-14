@@ -4,6 +4,7 @@ A modern, responsive **Personal Workout Tracker** web application built with [Re
 
 ---
 
+### [![Netlify Status](https://api.netlify.com/api/v1/badges/34d78d78-17a4-4656-9418-3d8f265dae06/deploy-status)](https://app.netlify.com/projects/consistency-builder/deploys)
 ### You can access this website here: [Personal Workout Tracker](https://consistency-builder.netlify.app/)
 
 ---
