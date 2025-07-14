@@ -11,7 +11,7 @@ export default function Layout(props) {
     )
     const footer = (
         <footer>
-            <p>Built By<a href="" target="_blank"></a><br />Styled With{" "}
+            <p>Built By{" "}<a href="https://github.com/Abhishek-7504/" target="_blank">Abhishek</a><br />Styled With{" "}
             <a href="https://github.com/jamezmca/full-stack-course/blob/main/2_brogram/src/fanta.css" 
             target="_blank"> 
                 FantaCSS
